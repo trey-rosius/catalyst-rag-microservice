@@ -1,0 +1,20 @@
+dapr==1.13.0
+dapr-ext-grpc ==1.12.0
+fastapi==0.109.1
+grpcio==1.64.1
+pydantic==2.4.2
+requests==2.31.0
+pinecone-client==3.2.2
+langchain-pinecone==0.1.1
+langchain-openai==0.1.9
+langchain-community==0.2.5
+langchain
+ffmpeg-python
+uvicorn==0.23.2
+pypdf==3.17.1
+ruff
+tiktoken
+pytubefix==7.1rc1
+numba==0.57
+dapr-ext-workflow>=0.4.1
+git+https://github.com/openai/whisper.git
